@@ -1,3 +1,4 @@
+// from https://gist.github.com/ijt/950790
 package main
 
 import (
